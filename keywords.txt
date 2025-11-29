@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map For AutoKalman
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AutoKalman	KEYWORD1
+AutoKalman2D	KEYWORD1
+AutoKalmanFixed	KEYWORD1
+Vector2D	KEYWORD1
+fixed_t	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+filter	KEYWORD2
+reset	KEYWORD2
+setProcessNoise	KEYWORD2
+setMeasurementNoise	KEYWORD2
+setEstimatedError	KEYWORD2
+setInitialValue	KEYWORD2
+getProcessNoise	KEYWORD2
+getMeasurementNoise	KEYWORD2
+getEstimatedError	KEYWORD2
+getStateEstimate	KEYWORD2
+filterPosition	KEYWORD2
+getPosition	KEYWORD2
+getVelocity	KEYWORD2
+setInitialState	KEYWORD2
+floatToFixed	KEYWORD2
+fixedToFloat	KEYWORD2
+getParams	KEYWORD2
+get2DParams	KEYWORD2
+scaleNoise	KEYWORD2
+validateParams	KEYWORD2
+validate2DParams	KEYWORD2
+KalmanParams	KEYWORD1
+Kalman2DParams	KEYWORD1
+
+#######################################
+# Constants (LITERAL1)
+#######################################
